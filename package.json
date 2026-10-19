@@ -1,0 +1,33 @@
+{
+  "name": "ortus",
+  "version": "0.1.1",
+  "description": "PRT (Planet Renox Time): milliseconds since 1998-03-14T03:00:00Z",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "types": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "prt",
+    "planet renox time",
+    "time",
+    "timestamp",
+    "epoch"
+  ],
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetrenox/ortus.git"
+  }
+}
