@@ -1,6 +1,6 @@
 {
   "name": "ortus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PRT (Planet Renox Time): milliseconds since 1998-03-14T03:00:00Z",
   "type": "module",
   "exports": {
